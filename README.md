@@ -1,1 +1,3 @@
-# Testowe API - Typescript, Express.js, GraphQL
+# Testowe API GraphQL
+
+Typescript, Express.js, GraphQL, MariaDB, Docker, Prisma, JWT
